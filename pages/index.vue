@@ -1,8 +1,9 @@
 <template>
   <div>
-    <h1 class="text-3xl font-bold bg-amber-600">
-      Hello world!
-    </h1>
+    <h1>Header</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, soluta.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, soluta.</p>
+    <a href="">Link</a>
   </div>
 </template>
 
